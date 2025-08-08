@@ -1,5 +1,7 @@
 **NLP Analysis of Mental Health Tweets**
+
 **Overview**
+
 This project performs sentiment analysis on mental health–related tweets, classifying them as positive, negative, or neutral.
 It uses advanced Natural Language Processing (NLP) techniques for text preprocessing and TF-IDF vectorization for feature extraction.
 Multiple machine learning models were trained, with Bernoulli Naive Bayes achieving the highest accuracy.

@@ -7,6 +7,7 @@ It uses advanced Natural Language Processing (NLP) techniques for text preproces
 Multiple machine learning models were trained, with Bernoulli Naive Bayes achieving the highest accuracy.
 
 **Features**
+
 Classifies tweets into positive, negative, or neutral sentiment categories.
 
 Implements preprocessing techniques like tokenization, stopword removal, and lemmatization.
